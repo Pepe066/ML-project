@@ -1,0 +1,766 @@
+Article 1:
+Knowledge-Augmented Text (ka_text):
+
+[KNOWLEDGE]
+Newton Stewart: 
+ country - United Kingdom
+Hawick: 
+ country - United Kingdom
+Dumfriesshire: 
+ country - United Kingdom,
+ capital - Dumfries
+Peeblesshire: 
+ country - United Kingdom
+Nicola Sturgeon: 
+ place of birth - Irvine,
+ sex or gender - female,
+ spouse - Peter Murrell,
+ country of citizenship - United Kingdom,
+ educated at - Greenwood Academy, University of Glasgow, University of Glasgow School of Law,
+ occupation - politician, lawyer
+Scottish people: 
+ instance of - ethnic group
+Alex Rowley: 
+ place of birth - Dunfermline,
+ sex or gender - male,
+ country of citizenship - United Kingdom,
+ child - Danielle Rowley,
+ educated at - St. Columba's R.C. High School, Dunfermline, University of Edinburgh,
+ occupation - politician
+
+[TEXT]
+The full cost of damage in Newton Stewart, one of the areas worst affected, is still being assessed.
+Repair work is ongoing in Hawick and many roads in Peeblesshire remain badly affected by standing water.
+Trains on the west coast mainline face disruption due to damage at the Lamington Viaduct.
+Many businesses and householders were affected by flooding in Newton Stewart after the River Cree overflowed into the town.
+First Minister Nicola Sturgeon visited the area to inspect the damage.
+The waters breached a retaining wall, flooding many commercial properties on Victoria Street - the main shopping thoroughfare.
+Jeanette Tate, who owns the Cinnamon Cafe which was badly affected, said she could not fault the multi-agency response once the flood hit.
+However, she said more preventative work could have been carried out to ensure the retaining wall did not fail.
+"It is difficult but I do think there is so much publicity for Dumfries and the Nith - and I totally appreciate that - but it is almost like we're neglected or forgotten," she said.
+"That may not be true but it is perhaps my perspective over the last few days.
+"Why were you not ready to help us a bit more when the warning and the alarm alerts had gone out?"
+Meanwhile, a flood alert remains in place across the Borders because of the constant rain.
+Peebles was badly hit by problems, sparking calls to introduce more defences in the area.
+Scottish Borders Council has put a list on its website of the roads worst affected and drivers have been urged not to ignore closure signs.
+The Labour Party's deputy Scottish leader Alex Rowley was in Hawick on Monday to see the situation first hand.
+He said it was important to get the flood protection plan right but backed calls to speed up the process.
+"I was quite taken aback by the amount of damage that has been done," he said.
+"Obviously it is heart-breaking for people who have been forced out of their homes and the impact on businesses."
+He said it was important that "immediate steps" were taken to protect the areas most vulnerable and a clear timetable put in place for flood prevention plans.
+Have you been affected by flooding in Dumfries and Galloway or the Borders? Tell us about your experience of the situation and how it was handled. Email us on selkirk.news@bbc.co.uk or dumfries@bbc.co.uk.
+        
+
+Augmented Summary:
+The text discusses flooding impacts in the United Kingdom, with **Newton Stewart** and **Hawick** being notably affected. **Nicola Sturgeon**, the First Minister who was born in Irvine and is a politician and lawyer by occupation, visited the area to assess the damage. The flooding in Newton Stewart was severe, with the River Cree overflowing and damaging businesses on Victoria Street. Jeanette Tate, owner of the Cinnamon Cafe, expressed concern about the lack of preventative measures. Meanwhile, **Alex Rowley**, the Labour Party's deputy Scottish leader born in Dunfermline, visited Hawick and called for expedited flood protection plans. **Peeblesshire** and other areas in the Borders also faced significant flooding, leading to road closures and calls for better defenses. The Scottish Borders Council has listed the worst-affected roads, and residents are urged to share their experiences.
+
+Non-Augmented Summary:
+**Summary:**
+
+- Severe flooding in Newton Stewart, Hawick, and Peeblesshire has caused significant damage, affecting businesses and homes.
+- Infrastructure such as roads and the Lamington Viaduct have been impacted, leading to travel disruptions.
+- First Minister Nicola Sturgeon and Labour's Alex Rowley visited affected areas.
+- Business owners like Jeanette Tate praised the response but criticized the lack of preventative measures.
+- Flood alerts remain in place, and Scottish Borders Council has listed road closures.
+- Residents are invited to share their experiences via email.
+
+================================================================================
+
+Article 2:
+Knowledge-Augmented Text (ka_text):
+
+[KNOWLEDGE]
+Germany: 
+ country - Germany,
+ capital - Berlin,
+ official language - German,
+ currency - Euro
+People's Republic of China: 
+ country - People's Republic of China,
+ capital - Beijing,
+ official language - Standard Chinese, languages of China, Chinese,
+ currency - renminbi
+Taiwan: 
+ country - Taiwan,
+ capital - Taipei,
+ official language - Taiwanese Sign Language, Taiwanese Hokkien, Bunun, Atayal, Paiwan, Kavalan, Rukai, Tsou, Saaroa, Standard Taiwanese Mandarin, Kanakanavu, Yami, Amis
+Northern Ireland: 
+ country - United Kingdom,
+ capital - Belfast,
+ official language - Irish, English,
+ currency - pound sterling
+David I. Gibson: 
+ sex or gender - male,
+ country of citizenship - United Kingdom,
+ educated at - University of Aberdeen, University of Nottingham,
+ occupation - helminthologist, parasitologist
+
+[TEXT]
+A fire alarm went off at the Holiday Inn in Hope Street at about 04:20 BST on Saturday and guests were asked to leave the hotel.
+As they gathered outside they saw the two buses, parked side-by-side in the car park, engulfed by flames.
+One of the tour groups is from Germany, the other from China and Taiwan. It was their first night in Northern Ireland.
+The driver of one of the buses said many of the passengers had left personal belongings on board and these had been destroyed.
+Both groups have organised replacement coaches and will begin their tour of the north coast later than they had planned.
+Police have appealed for information about the attack.
+Insp David Gibson said: "It appears as though the fire started under one of the buses before spreading to the second.
+"While the exact cause is still under investigation, it is thought that the fire was started deliberately."
+        
+
+Augmented Summary:
+A fire alarm at the Holiday Inn in Hope Street, Northern Ireland (**country - United Kingdom, capital - Belfast**), evacuated guests at around 04:20 BST on Saturday. Outside, they found two buses ablaze in the parking lot. One tour group was from **Germany** (**capital - Berlin, official language - German, currency - Euro**) and the other from **People's Republic of China** (**capital - Beijing, official language - Standard Chinese, currency - renminbi**) and **Taiwan** (**capital - Taipei**), who were on their first night in Northern Ireland. Personal belongings on board were destroyed. Both groups arranged replacement coaches and will commence their north coast tour late. Police, including Insp **David Gibson** (**sex or gender - male, country of citizenship - United Kingdom,
+
+Non-Augmented Summary:
+A fire alarm at the Holiday Inn in Hope Street, Belfast, led to the evacuation of guests who witnessed two tour buses on fire in the parking lot. The buses belonged to tour groups from Germany and China/Taiwan. Personal belongings on board were destroyed. The groups arranged replacement coaches, and police are investigating the suspected deliberate fire.
+
+================================================================================
+
+Article 3:
+Knowledge-Augmented Text (ka_text):
+
+[KNOWLEDGE]
+Mercedes-Benz: 
+ founded by - Gottlieb Daimler, Wilhelm Maybach, Carl Benz,
+ chief executive officer - Ola Källenius,
+ industry - automotive industry
+Sebastian Vettel: 
+ place of birth - Heppenheim,
+ sex or gender - male,
+ country of citizenship - Germany,
+ occupation - racing automobile driver, Formula One driver, motorsports competitor
+Fédération Internationale de l'Automobile: 
+ headquarters location - Paris,
+ industry - other voluntary membership organizations (France)
+Belgian Species List: 
+ country - Belgium,
+ instance of - biological database
+Kimi Räikkönen: 
+ place of birth - Espoo,
+ sex or gender - male,
+ spouse - Minttu Virtanen,
+ country of citizenship - Finland,
+ occupation - racing automobile driver, Formula One driver, rally driver
+German: 
+ country - Switzerland, Germany, France, Poland, Russia, Belgium, Luxembourg, Liechtenstein, Austria, Italy, Denmark, Czech Republic,
+ instance of - modern language, language
+Australia: 
+ country - Australia,
+ capital - Canberra,
+ official language - Australian English, Auslan,
+ currency - Australian dollar
+Stoffel Vandoorne: 
+ place of birth - Kortrijk,
+ sex or gender - male,
+ country of citizenship - Belgium,
+ occupation - racing automobile driver, Formula One driver
+Jenson Button: 
+ place of birth - Frome,
+ sex or gender - male,
+ spouse - Brittny Ward,
+ country of citizenship - United Kingdom,
+ educated at - Frome College,
+ occupation - autobiographer, racing automobile driver, Formula One driver
+Formula One: 
+ chief executive officer - Stefano Domenicali
+Thursday: 
+ part of - week
+Fernando Alonso: 
+ place of birth - Oviedo,
+ sex or gender - male,
+ spouse - Raquel del Rosario,
+ country of citizenship - Spain,
+ occupation - Formula One driver
+Japan: 
+ country - Japan,
+ capital - Tokyo,
+ official language - Japanese,
+ currency - yen
+Bahrain: 
+ country - Bahrain,
+ capital - Manama,
+ official language - Arabic,
+ currency - Bahraini dinar
+Friday: 
+ part of - week
+Universe: 
+ significant event - Big Bang, lepton epoch, photon epoch, hadron epoch, quark epoch, Big Bang nucleosynthesis
+2015: 
+ part of - Gregorian calendar, 2010s
+Jean Todt: 
+ place of birth - Pierrefort,
+ sex or gender - male,
+ spouse - Michelle Yeoh,
+ country of citizenship - France,
+ child - Nicolas Todt,
+ educated at - EDC Paris Business School,
+ occupation - co-driver, team manager
+Sergio Pérez: 
+ place of birth - Guadalajara,
+ sex or gender - male,
+ country of citizenship - Mexico,
+ occupation - racing automobile driver, Formula One driver
+Bernie Ecclestone: 
+ place of birth - Bungay,
+ sex or gender - male,
+ spouse - Slavica Ecclestone,
+ country of citizenship - United Kingdom,
+ child - Petra Ecclestone, Tamara Ecclestone,
+ occupation - entrepreneur, businessperson, Formula One driver
+FC Red Bull Salzburg: 
+ headquarters location - Salzburg
+Daniel Ricciardo: 
+ place of birth - Perth,
+ sex or gender - male,
+ country of citizenship - Australia,
+ educated at - Newman College, Perth,
+ occupation - racing automobile driver, Formula One driver
+Valtteri Bottas: 
+ place of birth - Nastola,
+ sex or gender - male,
+ spouse - Emilia Pikkarainen,
+ country of citizenship - Finland,
+ occupation - racing automobile driver, Formula One driver
+Felipe Massa: 
+ place of birth - São Paulo,
+ sex or gender - male,
+ country of citizenship - Brazil,
+ occupation - racing automobile driver, Formula One driver
+Nico Hülkenberg: 
+ place of birth - Emmerich am Rhein,
+ sex or gender - male,
+ country of citizenship - Germany,
+ occupation - racing automobile driver, Formula One driver
+Daniil Kvyat: 
+ place of birth - Ufa,
+ sex or gender - male,
+ country of citizenship - Russia,
+ occupation - racing automobile driver, Formula One driver
+Renault: 
+ founded by - Marcel Renault, Louis Renault, Fernand Renault,
+ headquarters location - Boulogne-Billancourt,
+ chief executive officer - Luca de Meo,
+ industry - holding company activities, automotive industry
+Brit: 
+ instance of - female given name
+Jolyon Palmer: 
+ place of birth - Horsham,
+ sex or gender - male,
+ country of citizenship - United Kingdom,
+ educated at - Cranleigh School, University of Nottingham,
+ occupation - sports commentator, racing automobile driver, Formula One driver
+Pascal Wehrlein: 
+ place of birth - Sigmaringen,
+ sex or gender - male,
+ country of citizenship - Germany,
+ occupation - racing automobile driver, Formula One driver
+
+[TEXT]
+Ferrari appeared in a position to challenge until the final laps, when the Mercedes stretched their legs to go half a second clear of the red cars.
+Sebastian Vettel will start third ahead of team-mate Kimi Raikkonen.
+The world champion subsequently escaped punishment for reversing in the pit lane, which could have seen him stripped of pole.
+But stewards only handed Hamilton a reprimand, after governing body the FIA said "no clear instruction was given on where he should park".
+Belgian Stoffel Vandoorne out-qualified McLaren team-mate Jenson Button on his Formula 1 debut.
+Vandoorne was 12th and Button 14th, complaining of a handling imbalance on his final lap but admitting the newcomer "did a good job and I didn't".
+Mercedes were wary of Ferrari's pace before qualifying after Vettel and Raikkonen finished one-two in final practice, and their concerns appeared to be well founded as the red cars mixed it with the silver through most of qualifying.
+After the first runs, Rosberg was ahead, with Vettel and Raikkonen splitting him from Hamilton, who made a mistake at the final corner on his first lap.
+But Hamilton saved his best for last, fastest in every sector of his final attempt, to beat Rosberg by just 0.077secs after the German had out-paced him throughout practice and in the first qualifying session.
+Vettel rued a mistake at the final corner on his last lap, but the truth is that with the gap at 0.517secs to Hamilton there was nothing he could have done.
+The gap suggests Mercedes are favourites for the race, even if Ferrari can be expected to push them.
+Vettel said: "Last year we were very strong in the race and I think we are in good shape for tomorrow. We will try to give them a hard time."
+Vandoorne's preparations for his grand prix debut were far from ideal - he only found out he was racing on Thursday when FIA doctors declared Fernando Alonso unfit because of a broken rib sustained in his huge crash at the first race of the season in Australia two weeks ago.
+The Belgian rookie had to fly overnight from Japan, where he had been testing in the Super Formula car he races there, and arrived in Bahrain only hours before first practice on Friday.
+He also had a difficult final practice, missing all but the final quarter of the session because of a water leak.
+Button was quicker in the first qualifying session, but Vandoorne pipped him by 0.064secs when it mattered.
+The 24-year-old said: "I knew after yesterday I had quite similar pace to Jenson and I knew if I improved a little bit I could maybe challenge him and even out-qualify him and that is what has happened.
+"Jenson is a very good benchmark for me because he is a world champion and he is well known to the team so I am very satisfied with the qualifying."
+Button, who was 0.5secs quicker than Vandoorne in the first session, complained of oversteer on his final run in the second: "Q1 was what I was expecting. Q2 he did a good job and I didn't. Very, very good job. We knew how quick he was."
+The controversial new elimination qualifying system was retained for this race despite teams voting at the first race in Australia to go back to the 2015 system.
+FIA president Jean Todt said earlier on Saturday that he "felt it necessary to give new qualifying one more chance", adding: "We live in a world where there is too much over reaction."
+The system worked on the basis of mixing up the grid a little - Force India's Sergio Perez ended up out of position in 18th place after the team miscalculated the timing of his final run, leaving him not enough time to complete it before the elimination clock timed him out.
+But it will come in for more criticism as a result of lack of track action at the end of each session. There were three minutes at the end of the first session with no cars on the circuit, and the end of the second session was a similar damp squib.
+Only one car - Nico Hulkenberg's Force India - was out on the track with six minutes to go. The two Williams cars did go out in the final three minutes but were already through to Q3 and so nothing was at stake.
+The teams are meeting with Todt and F1 commercial boss Bernie Ecclestone on Sunday at noon local time to decide on what to do with qualifying for the rest of the season.
+Todt said he was "optimistic" they would be able to reach unanimous agreement on a change.
+"We should listen to the people watching on TV," Rosberg said. "If they are still unhappy, which I am sure they will be, we should change it."
+Red Bull's Daniel Ricciardo was fifth on the grid, ahead of the Williams cars of Valtteri Bottas and Felipe Massa and Force India's Nico Hulkenberg.
+Ricciardo's team-mate Daniil Kvyat was eliminated during the second session - way below the team's expectation - and the Renault of Brit Jolyon Palmer only managed 19th fastest.
+German Mercedes protege Pascal Wehrlein managed an excellent 16th in the Manor car.
+Bahrain GP qualifying results
+Bahrain GP coverage details
+        
+
+Augmented Summary:
+In the Bahrain GP qualifying, **Mercedes** demonstrated their dominance, with Hamilton securing pole position, outpacing his teammate **Nico Rosberg** by 0.077 seconds. **Sebastian Vettel**, the German driver for Ferrari, came in third, followed by his teammate **Kimi Räikkönen**. Despite Vettel's mistake in the final corner, the gap to Hamilton was substantial at 0.517 seconds, suggesting **Mercedes**' favoritism for the race. **Stoffel Vandoorne**, the Belgian rookie driving for McLaren, out-qualified his teammate **Jenson Button**, starting 12th, while Button started 14th. Vandoorne's debut was remarkable, considering he was a last-minute replacement for **Fernando Alonso**, who was deemed unfit due to injuries sustained in Australia. The qualifying session saw controversies, including the new elimination system that led to **Sergio Pérez**'s misfortune, finishing 18th. **Daniel Ricciardo** of **Red Bull** secured fifth place, ahead of **Valtteri Bottas** and **Felipe Massa** of Williams, and **Nico Hülkenberg** of Force India. **Daniil Kvyat**, Ricciardo's teammate, was eliminated in the second session. **Pascal Wehrlein**, a German driver for Manor, achieved an impressive 16th place. The **FIA**, headed by **Jean Todt**, faced criticism for the qualifying format, with teams set to discuss changes.
+
+Non-Augmented Summary:
+**Summary:**
+
+- Mercedes secured the front row for the Bahrain GP with Hamilton on pole, followed by Rosberg.
+- Ferrari's Vettel and Raikkonen qualified third and fourth, with Vettel lamenting a mistake on his final lap.
+- McLaren's Vandoorne out-qualified teammate Button on his F1 debut, despite last-minute preparations.
+- The controversial elimination qualifying system led to periods of inaction, attracting criticism.
+- Red Bull's Ricciardo qualified fifth, while his teammate Kvyat was eliminated earlier than expected.
+- The final qualifying results had Mercedes leading, followed by Ferrari, Red Bull, and Williams.
+
+================================================================================
+
+Article 1:
+Knowledge-Augmented Text (ka_text):
+
+[KNOWLEDGE]
+Wales: 
+ head of government - Eluned Morgan,
+ country - United Kingdom,
+ capital - Cardiff
+The Housing Act 1985 (Amendment of Schedule 2A) (Serious Offences) (Wales) Order 2016: 
+ main subject - housing
+Andrew Stevens: 
+ place of birth - Memphis,
+ sex or gender - male,
+ spouse - Kate Jackson,
+ country of citizenship - United States,
+ occupation - film actor, film director, screenwriter, actor, film producer, model, television actor
+Welsh: 
+ country - United Kingdom, Argentina,
+ instance of - modern language, natural language
+Tom Clarke: 
+ place of birth - Coatbridge,
+ sex or gender - male,
+ country of citizenship - United Kingdom,
+ educated at - University of Strathclyde,
+ occupation - politician
+Welsh Government: 
+ headquarters location - Cardiff
+
+[TEXT]
+Prison Link Cymru had 1,099 referrals in 2015-16 and said some ex-offenders were living rough for up to a year before finding suitable accommodation.
+Workers at the charity claim investment in housing would be cheaper than jailing homeless repeat offenders.
+The Welsh Government said more people than ever were getting help to address housing problems.
+Changes to the Housing Act in Wales, introduced in 2015, removed the right for prison leavers to be given priority for accommodation.
+Prison Link Cymru, which helps people find accommodation after their release, said things were generally good for women because issues such as children or domestic violence were now considered.
+However, the same could not be said for men, the charity said, because issues which often affect them, such as post traumatic stress disorder or drug dependency, were often viewed as less of a priority.
+Andrew Stevens, who works in Welsh prisons trying to secure housing for prison leavers, said the need for accommodation was "chronic".
+"There's a desperate need for it, finding suitable accommodation for those leaving prison there is just a lack of it everywhere," he said.
+"It could take six months to a year, without a lot of help they could be on the streets for six months.
+"When you think of the consequences of either being on the street, especially with the cold weather at the moment or you may have a roof over your head, sometimes there is only one choice."
+Mr Stevens believes building more one-bedroom flats could help ease the problem.
+"The average price is a hundred pounds a week to keep someone in a rented flat, prison is a lot more than that so I would imagine it would save the public purse quite a few pounds," he said.
+Official figures show 830 one-bedroom properties were built in the year to March 2016, of an overall total of 6,900 new properties in Wales.
+Marc, 50, who has been in and out of prison for the past 20 years for burglary offences, said he struggled to find accommodation each time he was released.
+He said he would ask himself: "Where am I going to stay? Where am I going to live? Have I got somewhere where I can see my daughter."
+"You're put out among the same sort of people doing the same sort of thing, and it's difficult, it's difficult to get away from it. It's like every man for himself, there's nothing."
+Marc has now found stable accommodation with homeless charity Emmaus and said it had been life changing.
+"You feel safe, you got hot food, you've got company of people in similar situations to yourself but all dealing with different issues. It's a constructive, helpful atmosphere," he said.
+Tom Clarke, chief executive of Emmaus South Wales, agreed there was not enough support available.
+"We do still see [people] homeless on the streets, so clearly they haven't got accommodation and haven't got provision," he said.
+"I think the key is connecting people with the services they need. I don't delude myself that Emmaus can offer a one size fits all for everyone, we can't.
+"But there must be other opportunities and given suitable encouragement I believe that can and should happen."
+A Welsh Government spokesman said the national pathway for homeless services to children, young people and adults in the secure estate had prevented many people from losing their home whilst serving their prison sentence.
+It added there were already significant demands for one-bedroom flats across the public and private sector and it was providing 20,000 new affordable homes in the next five years.
+        
+
+Augmented Summary:
+The text discusses housing issues for ex-offenders in Wales. **Prison Link Cymru**, a charity, reported 1,099 referrals in 2015-16 and noted that some ex-offenders were living rough for up to a year before finding suitable accommodation. The **Welsh Government**, based in **Cardiff**, acknowledged the issue and mentioned that more people were getting help for housing problems. Changes to the **Housing Act 1985** in Wales in 2015 removed priority accommodation for prison leavers. **Andrew Stevens**, an American film actor and director born in Memphis, who works in Welsh prisons, highlighted the chronic need for accommodation, suggesting that building more one-bedroom flats could help. **Tom Clarke**, a UK politician and chief executive of Emmaus South Wales, agreed that more support is needed. The Welsh Government spokesman mentioned ongoing efforts to provide affordable homes.
+
+Non-Augmented Summary:
+In 2015-16, Prison Link Cymru had 1,099 referrals and reported that some ex-offenders were living rough for up to a year before finding suitable accommodation. The charity and its workers argue that investing in housing would be more cost-effective than re-imprisoning homeless repeat offenders. While women generally receive priority for housing due to considerations like children or domestic violence, men often face longer waits because issues like PTSD or drug dependency are viewed as less urgent. The need for accommodation is severe, and building more one-bedroom flats could help alleviate the problem. Official figures show that 830 one-bedroom properties were built in Wales in the year up to March 2016. Some ex-offenders, like Marc, struggle to find accommodation and can end up homeless, but with proper support, they can turn their lives around. The Welsh Government acknowledges the issue and plans to provide 20,000 new affordable homes over the next five years.
+
+================================================================================
+
+Article 1:
+Knowledge-Augmented Text (ka_text):
+
+[KNOWLEDGE]
+Wales: 
+ head of government - Eluned Morgan,
+ country - United Kingdom,
+ capital - Cardiff
+The Housing Act 1985 (Amendment of Schedule 2A) (Serious Offences) (Wales) Order 2016: 
+ main subject - housing
+Andrew Stevens: 
+ place of birth - Memphis,
+ sex or gender - male,
+ spouse - Kate Jackson,
+ country of citizenship - United States,
+ occupation - film actor, film director, screenwriter, actor, film producer, model, television actor
+Welsh: 
+ country - United Kingdom, Argentina,
+ instance of - modern language, natural language
+Tom Clarke: 
+ place of birth - Coatbridge,
+ sex or gender - male,
+ country of citizenship - United Kingdom,
+ educated at - University of Strathclyde,
+ occupation - politician
+Welsh Government: 
+ headquarters location - Cardiff
+[/KNOWLEDGE]
+
+[TEXT]
+Prison Link Cymru had 1,099 referrals in 2015-16 and said some ex-offenders were living rough for up to a year before finding suitable accommodation.
+Workers at the charity claim investment in housing would be cheaper than jailing homeless repeat offenders.
+The Welsh Government said more people than ever were getting help to address housing problems.
+Changes to the Housing Act in Wales, introduced in 2015, removed the right for prison leavers to be given priority for accommodation.
+Prison Link Cymru, which helps people find accommodation after their release, said things were generally good for women because issues such as children or domestic violence were now considered.
+However, the same could not be said for men, the charity said, because issues which often affect them, such as post traumatic stress disorder or drug dependency, were often viewed as less of a priority.
+Andrew Stevens, who works in Welsh prisons trying to secure housing for prison leavers, said the need for accommodation was "chronic".
+"There's a desperate need for it, finding suitable accommodation for those leaving prison there is just a lack of it everywhere," he said.
+"It could take six months to a year, without a lot of help they could be on the streets for six months.
+"When you think of the consequences of either being on the street, especially with the cold weather at the moment or you may have a roof over your head, sometimes there is only one choice."
+Mr Stevens believes building more one-bedroom flats could help ease the problem.
+"The average price is a hundred pounds a week to keep someone in a rented flat, prison is a lot more than that so I would imagine it would save the public purse quite a few pounds," he said.
+Official figures show 830 one-bedroom properties were built in the year to March 2016, of an overall total of 6,900 new properties in Wales.
+Marc, 50, who has been in and out of prison for the past 20 years for burglary offences, said he struggled to find accommodation each time he was released.
+He said he would ask himself: "Where am I going to stay? Where am I going to live? Have I got somewhere where I can see my daughter."
+"You're put out among the same sort of people doing the same sort of thing, and it's difficult, it's difficult to get away from it. It's like every man for himself, there's nothing."
+Marc has now found stable accommodation with homeless charity Emmaus and said it had been life changing.
+"You feel safe, you got hot food, you've got company of people in similar situations to yourself but all dealing with different issues. It's a constructive, helpful atmosphere," he said.
+Tom Clarke, chief executive of Emmaus South Wales, agreed there was not enough support available.
+"We do still see [people] homeless on the streets, so clearly they haven't got accommodation and haven't got provision," he said.
+"I think the key is connecting people with the services they need. I don't delude myself that Emmaus can offer a one size fits all for everyone, we can't.
+"But there must be other opportunities and given suitable encouragement I believe that can and should happen."
+A Welsh Government spokesman said the national pathway for homeless services to children, young people and adults in the secure estate had prevented many people from losing their home whilst serving their prison sentence.
+It added there were already significant demands for one-bedroom flats across the public and private sector and it was providing 20,000 new affordable homes in the next five years.
+[/TEXT]
+        
+
+Augmented Summary:
+The text discusses housing issues for ex-offenders in Wales. **Prison Link Cymru**, a charity, reported 1,099 referrals in 2015-16 and noted that some ex-offenders were living rough for up to a year before finding suitable accommodation. The **Welsh Government**, headquartered in **Cardiff**, acknowledged the issue and mentioned ongoing efforts to address housing problems. Changes to the **Housing Act 1985** in Wales removed priority accommodation for prison leavers. **Andrew Stevens**, an American film actor and director born in Memphis, who works in Welsh prisons, highlighted the chronic need for accommodation and suggested building more one-bedroom flats. **Tom Clarke**, a UK politician and chief executive of Emmaus South Wales, agreed that more support is needed. The Welsh Government spokesman mentioned plans to provide 20,000 new affordable homes in the next five years.
+
+Non-Augmented Summary:
+**Summary:**
+
+- Prison Link Cymru had 1,099 referrals in 2015-16, with some ex-offenders living rough for up to a year before finding accommodation.
+- The charity and workers like Andrew Stevens argue that investing in housing would be cheaper than jailing homeless repeat offenders.
+- The Welsh Government says more people are getting help for housing problems, but changes to the Housing Act removed priority accommodation for prison leavers.
+- Men face greater housing difficulties than women, as their issues (like PTSD or drug dependency) are often deprioritized.
+- There's a severe lack of accommodation for prison leavers, which can take up to a year to secure.
+- Building more one-bedroom flats could help, as it's cheaper than prison.
+- Ex-offenders like Marc struggle to find housing and support, but charities like Emmaus can provide life-changing assistance.
+- The Welsh Government acknowledges housing demands and plans to provide 20,000 new affordable homes in the next five years.
+
+================================================================================
+
+Article 2:
+Knowledge-Augmented Text (ka_text):
+
+[KNOWLEDGE]
+Canada: 
+ head of government - Mark Carney,
+ country - Canada,
+ capital - Ottawa
+United States: 
+ head of government - Donald Trump,
+ country - United States,
+ capital - Washington, D.C.
+Europe: 
+ instance of - continent, part of the world
+Non-European Unity Movement: 
+ instance of - social movement, organization, political party
+France: 
+ head of government - François Bayrou,
+ country - France,
+ capital - Paris
+Donald Trump: 
+ place of birth - Jamaica Hospital Medical Center,
+ sex or gender - male,
+ spouse - Melania Trump,
+ country of citizenship - United States,
+ child - Barron Trump, Eric Trump, Donald Trump Jr., Tiffany Trump, Ivanka Trump,
+ educated at - Fordham University, The Kew-Forest School, University of Pennsylvania, The Wharton School, New York Military Academy,
+ occupation - actor
+French: 
+ country - Chad, Canada, India, Luxembourg, Cambodia, United States, France, Vanuatu, Jersey, Andorra, Monaco, Algeria, Italy, Belgium, Switzerland
+Mark Carney: 
+ place of birth - Fort Smith,
+ sex or gender - male,
+ spouse - Diana Fox,
+ country of citizenship - United Kingdom, Ireland, Canada,
+ educated at - Harvard College, Nuffield College, Harvard University, St Peter's College, St. Francis Xavier High School,
+ occupation - economist, prime minister, politician, entrepreneur
+United Kingdom: 
+ head of government - Keir Starmer,
+ country - United Kingdom,
+ capital - London
+Emmanuel Macron: 
+ place of birth - Amiens,
+ sex or gender - male,
+ spouse - Brigitte Macron,
+ country of citizenship - France,
+ educated at - La Providence, École nationale d'administration, Lycée Henri-IV, Paris Nanterre University, Sciences Po,
+ occupation - banker, politician, official, statesperson, investment banker
+Paris: 
+ head of government - Anne Hidalgo,
+ country - France
+Canadian Medical Association Journal: 
+ country - Canada,
+ instance of - APC-free journal, society journal, open-access journal, scientific journal, medical journal
+First Nations: 
+ country - Canada,
+ instance of - ethnic group, population group
+Welsh: 
+ country - United Kingdom, Argentina,
+ instance of - modern language, natural language
+[/KNOWLEDGE]
+
+[TEXT]
+Canada is the “most European of the non-European countries”, Mark Carney has said during his first overseas trip as prime minister to France and the UK, where he is seeking stronger alliances to deal with Donald Trump’s attacks on his country’s sovereignty and economy.
+
+Without mentioning Trump by name, Carney and the French president, Emmanuel Macron, held a joint press conference in Paris to show a united stance against what they said were economic and geopolitical crises – a reference to Trump’s trade war and “America first” diplomacy that has left longtime allies scrambling.
+
+“Canada is a unique friend,” Macron said, adding that fair trade was more effective than tariffs. Carney spoke in French and English, and said it was important for Canada to strengthen ties with “reliable allies”.
+
+“I want to ensure that France and the whole of Europe work enthusiastically with Canada, the most European of non-European countries, determined like you to maintain the most positive possible relations with the United States,” he said.
+
+A senior Canadian government official who briefed reporters on Carney’s plane said the purpose of the trip was strengthen partnerships with Canada’s two founding countries. The official said Canada was a “good friend of the United States but we all know what is going on”.
+
+Carney is deliberately making his first foreign trip to the capital cities of the two countries that shaped Canada’s early existence. At his swearing-in ceremony on Friday, he noted the country was built on the bedrock of three peoples: Indigenous, French and British.
+
+He said Canada was fundamentally different from the US and would “never, ever, in any way shape or form, be part of the United States”.
+[/TEXT]
+        
+
+Augmented Summary:
+**Mark Carney**, the prime minister of **Canada**, made his first overseas trip to **France** and the **United Kingdom** to strengthen alliances against **Donald Trump**'s policies. Carney and **Emmanuel Macron**, the French president, held a joint press conference in **Paris** to discuss economic and geopolitical crises, indirectly referring to Trump's trade war and diplomacy. Macron acknowledged Canada as a unique friend, and Carney emphasized the importance of strengthening ties with reliable allies like France and Europe. A senior Canadian official noted that the trip aimed to bolster partnerships with Canada's founding countries, acknowledging the country's roots in Indigenous, French, and British cultures. Carney asserted Canada's distinct identity from the **United States**.
+
+Non-Augmented Summary:
+Canada's Prime Minister Mark Carney, on his first overseas trip to France and the UK, seeks stronger alliances to counter US President Donald Trump's policies. Carney and French President Emmanuel Macron presented a united front against Trump's trade war and "America first" diplomacy. Carney emphasized Canada's unique bond with Europe and its determination to maintain positive US relations. The trip aims to strengthen partnerships with Canada's founding countries, France and the UK.
+
+================================================================================
+
+Article 2:
+Knowledge-Augmented Text (ka_text):
+
+[KNOWLEDGE]
+Bosnia and Herzegovina: 
+ head of government - Borjana Krišto,
+ country - Bosnia and Herzegovina,
+ capital - Sarajevo
+Milorad Dodik: 
+ place of birth - Laktaši,
+ sex or gender - male,
+ country of citizenship - Bosnia and Herzegovina,
+ educated at - Faculty of Political Sciences, University of Belgrade, University of Belgrade,
+ occupation - politician
+Serbs of Bosnia and Herzegovina: 
+ country - Bosnia and Herzegovina,
+ instance of - ethnic group, Constituent people
+NATO: 
+ founded by - Joseph Bech, José Caeiro da Mata, Robert Schuman, Dean Acheson, Lester B. Pearson, Gustav Rasmussen, Paul-Henri Spaak, Halvard Lange, Carlo Sforza, Dirk Stikker, Bjarni Benediktsson, Ernest Bevin,
+ headquarters location - City of Brussels
+Serbian: 
+ country - Croatia, Bosnia and Herzegovina, North Macedonia, Serbia, Kosovo, Montenegro,
+ instance of - language, pluricentric language variant, standard variety
+Sarajevo: 
+ head of government - Benjamina Karić,
+ country - Bosnia and Herzegovina
+Europe: 
+ instance of - continent, part of the world
+Banja Luka: 
+ head of government - Draško Stanivuković,
+ country - Bosnia and Herzegovina
+Radovan Višković: 
+ place of birth - Yugoslavia,
+ sex or gender - male,
+ country of citizenship - Bosnia and Herzegovina,
+ educated at - University of Sarajevo,
+ occupation - politician
+Nenad Stevandić: 
+ place of birth - Drvar,
+ sex or gender - male,
+ country of citizenship - Bosnia and Herzegovina,
+ educated at - University of Banja Luka,
+ occupation - physician, politician
+Christian Schmidt: 
+ educated at - University of Erlangen–Nuremberg, Q1503445,
+ place of birth - Obernzenn,
+ sex or gender - male,
+ country of citizenship - Germany,
+ occupation - lawyer, politician
+Bosniaks: 
+ country - Canada, Spain, Norway, Turkey, United States, Netherlands, Austria, Hungary, Italy, Denmark, Belgium, Finland, Russia, Switzerland, Sweden
+Serbs: 
+ country - Germany, Slovenia, Canada, Greece, United States, France, Romania, Bosnia and Herzegovina, Austria, North Macedonia, Hungary, Italy, Russia, Switzerland, Sweden
+Croats: 
+ country - Croatia,
+ instance of - ethnic group,
+ religion or worldview - Catholicism
+Socialist Federal Republic of Yugoslavia: 
+ country - Socialist Federal Republic of Yugoslavia,
+ capital - Belgrade
+World War II: 
+ location - Africa, Southeast Asia, Pacific Ocean, People's Republic of China, Australia, Europe, South America, Middle East, Indian Ocean, Atlantic Ocean, North America, Mediterranean Sea, Japan, Russia, Asia
+Bosnian: 
+ country - Turkey, Croatia, Montenegro, Bosnia and Herzegovina,
+ instance of - pluricentric language variant, standard variety
+European Union: 
+ founded by - Kingdom of the Netherlands, Luxembourg, France, Italy, Belgium, West Germany,
+ headquarters location - City of Brussels, Luxembourg, Strasbourg
+football in Bosnia and Herzegovina: 
+ country - Bosnia and Herzegovina
+[/KNOWLEDGE]
+
+[TEXT]
+Bosnia's state-level prosecutors issued arrest warrants for the entity of the Republika Srpska President Milorad Dodik and two other officials, accusing them of anti-constitutional conduct.
+
+Bosnia's state-level prosecutors issued arrest warrants on Wednesday for three top Bosnian Serb officials — including the president of the Western Balkan country's Serb-majority entity of the Republika Srpska (RS), Milorad Dodik.
+
+Dodik, who has previously said he does not recognise the country's state-level prosecutor's office, has rejected the warrant's validity and any attempts at his arrest, and said he will not go to Sarajevo for questioning.
+
+"There is no such blow or suffering that I am not ready to endure for the Republika Srpska. Milorad Dodik will carry out his duties and I will never leave the Republika Srpska," the Bosnian Serb leader said in the entity's de facto capital, Banjaluka, on Wednesday.
+
+"If anyone thinks we are cowards, they are sorely mistaken," he added.
+
+In addition to the Bosnian Serb leader, the entity's Prime Minister Radovan Višković and National Assembly Speaker Nenad Stevandić are the other two names on the warrant, with the prosecutor's office charging them for anti-constitutional conduct.
+
+Bosnia's state-level court convicted Dodik in late February of going against the decisions of the country's international peace envoy, Christian Schmidt, which constitutes a criminal act. The verdict is not final, and Dodik can appeal it.
+
+Shortly after, Dodik introduced new laws meant to ban the operation of state-level security and judicial institutions in what comprises about half of the Western Balkan country’s territory. 
+
+The decisions have been temporarily suspended by the state-level Constitutional Court.
+
+In Bosnia, the High Representative acts as the chief arbiter in high-profile disputes and the key figure overseeing the implementation of the Dayton Agreement, signed in 1995 to stop the war in the country. 
+
+The agreement brought about the end of the war between the country's three main ethnic groups — Bosniaks, Serbs and Croats — that began in 1992 during the dissolution of the former Yugoslavia, deemed as the bloodiest conflict on European soil since World War II. 
+
+The peace deal, parts of which act as the country's constitution, split the country into two main administrative units, or entities: the Serb-majority RS and the Bosniak-Croat Federation of BiH (FBiH), partially overseen by an umbrella state-level government. 
+
+Meant to appease the former belligerents, it created a complicated system of checks and balances, said to be the world's most complex democracy. 
+
+Meanwhile, NATO's secretary general on Monday pledged the military alliance's "unwavering" support for Bosnia's territorial integrity, visiting the capital Sarajevo amid one of the most significant political crises roiling the EU membership hopeful since the end of the war.
+
+"Three decades after the Dayton Peace Agreement, I can tell you: NATO remains firmly committed to the stability of this region and to the security of Bosnia and Herzegovina," Rutte said. "We will not allow hard-won peace to be jeopardised."
+
+Rutte called any actions undermining the accord, the constitutional order or national institutions "unacceptable".
+
+"Inflammatory rhetoric and actions are dangerous. They pose a direct threat to Bosnia and Herzegovina's stability and security," the NATO chief added.
+
+The European peacekeeping force in Bosnia, EUFOR, has said it was stepping up the number of its troops in response to the tensions.
+[/TEXT]
+        
+
+Augmented Summary:
+**Bosnia and Herzegovina**'s state-level prosecutors issued arrest warrants for **Milorad Dodik**, the president of the country's Serb-majority entity Republika Srpska (RS), and two other officials, **Radovan Višković** and **Nenad Stevandić**, accusing them of anti-constitutional conduct. Dodik, a **politician** born in **Laktaši** and educated at the **University of Belgrade**, rejected the warrant and refused to go to the capital **Sarajevo** for questioning. The warrant comes after Dodik was convicted of acting against the decisions of the country's international peace envoy, **Christian Schmidt**. Meanwhile, **NATO**'s secretary general pledged support for Bosnia's territorial integrity amid political tensions, emphasizing the importance of the **Dayton Peace Agreement** that ended the war between **Bosniaks, Serbs**, and **Croats** in the 1990s. The **European Union**'s peacekeeping force in Bosnia, EUFOR, has increased its troop numbers in response to the situation.
+
+Non-Augmented Summary:
+Bosnia's state-level prosecutors issued arrest warrants for Republika Srpska President Milorad Dodik and two other officials for anti-constitutional conduct. Dodik rejected the warrant and vowed to stay in Republika Srpska. The warrant follows Dodik's conviction for defying the international peace envoy and his subsequent introduction of laws banning state-level institutions. NATO and EUFOR have reinforced their support for Bosnia's territorial integrity amid rising tensions.
+
+================================================================================
+
+Article 2:
+Knowledge-Augmented Text (ka_text):
+
+[KNOWLEDGE]
+Hungary: 
+ head of government - Viktor Orbán,
+ country - Hungary,
+ capital - Budapest
+Hungarians: 
+ country - Canada, Romania, Slovakia, Ukraine, Czech Republic, Hungary, Serbia,
+ instance of - ethnic group,
+ religion or worldview - Hungarian Greek Catholic Church, Lutheranism, Reformed Church in Hungary, Catholic Church, Eastern Orthodoxy
+House of Habsburg: 
+ country - Iberian Union, Crown of Castile, Kingdom of Portugal, Crown of Aragon, Archduchy of Austria,
+ instance of - dynasty
+European Union: 
+ founded by - Kingdom of the Netherlands, Luxembourg, France, Italy, Belgium, West Germany,
+ headquarters location - City of Brussels, Luxembourg, Strasbourg
+Ukraine: 
+ head of government - Denys Shmyhal,
+ country - Ukraine,
+ capital - Kyiv
+United States Agency for International Development: 
+ founded by - John F. Kennedy,
+ headquarters location - Washington, D.C.,
+ chief executive officer - Samantha Power
+Hungarian: 
+ country - Croatia, Slovenia, Romania, Slovakia, Austria, Ukraine, Hungary, Serbia,
+ instance of - language, modern language, natural language
+United States: 
+ head of government - Donald Trump,
+ country - United States,
+ capital - Washington, D.C.
+Viktor Orbán: 
+ place of birth - Székesfehérvár,
+ sex or gender - male,
+ spouse - Anikó Lévai,
+ country of citizenship - Hungary,
+ child - Ráhel Orbán, Sára Orbán, Gáspár Orbán, Flóra Orbán, Róza Orbán,
+ educated at - Pembroke College, Teleki Blanka high school and junior high school, Eötvös Loránd University,
+ occupation - lawyer, politician, jurist
+American English: 
+ country - United States,
+ instance of - ethnolect, dialect, natural language
+Vienna: 
+ head of government - Michael Ludwig,
+ country - Austria
+Viennese German: 
+ country - Austria,
+ instance of - dialect
+Austria: 
+ head of government - Alexander Schallenberg,
+ country - Austria,
+ capital - Vienna
+Austria-Hungary: 
+ religion or worldview - Protestantism, Q25468576, Eastern Catholic Churches, Catholicism,
+ instance of - historical country
+Russian: 
+ country - Russia,
+ instance of - language, modern language, natural language
+Donald Trump: 
+ place of birth - Jamaica Hospital Medical Center,
+ sex or gender - male,
+ spouse - Melania Trump,
+ country of citizenship - United States,
+ child - Barron Trump, Eric Trump, Donald Trump Jr., Tiffany Trump, Ivanka Trump,
+ educated at - Fordham University, The Kew-Forest School, University of Pennsylvania, The Wharton School, New York Military Academy,
+ occupation - actor
+Fidesz: 
+ headquarters location - Budapest
+Western film: 
+ instance of - film genre
+[/KNOWLEDGE]
+
+[TEXT]
+"There is always an empire that is trying to take away the freedom of the Hungarians, and right now it is the one in Brussels," Viktor Orban said in a speech on Saturday.
+
+Hungary's prime minister on Saturday vowed to rid his country of those he claims work for the interests of foreign powers, saying his right-wing government will eliminate a global “shadow army” serving the European Union and a “liberal American empire”.
+
+In a public address, which coincided with a national holiday commemorating Hungary’s 1848 revolution against Habsburg rule, Viktor Orbán told a group of several thousand supporters that Hungary in the coming weeks will uproot media outlets and other organisations that have received funding from abroad.
+
+“After today’s festive gathering comes the Easter cleaning. The bugs have overwintered," Orbán said. “We will dismantle the financial machine that has used corrupt dollars to buy politicians, judges, journalists, pseudo-NGOs and political activists. We will eliminate the entire shadow army.”
+
+Orbán, in power since 2010, has used the 15 March celebration in recent years as a podium from which to launch increasingly hostile words against the EU.
+
+"There is always an empire that is trying to take away the freedom of the Hungarians, and right now it is the one in Brussels. Brussels is abusing its power, just as Vienna did in the past. They want to rule over us, just as the governors of the Viennese court did in the past," he claimed.
+
+Hungary and Austria were the two states that formed the Habsburg-led Austro-Hungarian Empire, which ruled significant parts of central, eastern and southeastern Europe between the 18th and early 19th centuries.
+
+Orbán said that one task remained, to defend Hungary against Brussels' attacks. "Brussels" has, he claimed, "jumped headlong into the Russian-Ukrainian war".
+
+"We did not jump into the war with Brussels, the empire does not want to help, but to colonise, the means of this is war, it will cost what it costs, and then Ukraine will gain EU membership."
+
+Orbán said there was only one answer: "European Union, but without Ukraine."
+
+Groups benefitting from USAID funding to 'face consequences'?
+Recently, the Hungarian leader has accelerated his longstanding efforts to crack down on critics such as media outlets, civil rights and anti-corruption groups, which he says have undermined Hungary's sovereignty by receiving financial assistance from international donors.
+
+Orbán, an ally of US President Donald Trump, has applauded the US administration’s actions to dismantle the US Agency for International Development, claiming, with no evidence, that it was used to fund liberal causes in Hungary aimed at toppling his government.
+
+He has promised that groups that have benefited from funding by USAID would be eliminated in Hungary and face “legal consequences”.
+
+This week, Orbán's ruling Fidesz party proposed amendments to Hungary's constitution that would allow Hungarian dual citizens to have their citizenship suspended and be deported from the country if they threaten its sovereignty or national security.
+
+On Saturday, Orbán, a firm opponent of immigration, also echoed the conspiratorial “great replacement theory,” which suggests there is a global plot to diminish the influence of white people.
+
+"The battle today is actually being fought for the soul of the Western world," Orbán said. “The empire wants to mix and then replace the indigenous people of Europe with invading masses arriving from foreign civilizations.”
+[/TEXT]
+        
+
+Augmented Summary:
+In a speech on Saturday, **Viktor Orbán**, Hungary's prime minister since 2010, criticized the **European Union** and a "liberal American empire," claiming they threaten Hungary's freedom. Speaking on a national holiday marking Hungary's 1848 revolution against the **House of Habsburg**, Orbán vowed to eliminate media outlets and organizations funded from abroad, which he referred to as a "shadow army." He compared the EU to past empires, saying "Brussels is abusing its power, just as Vienna did in the past." Orbán also criticized the EU's involvement in the Russia-Ukraine war and stated his opposition to Ukraine's EU membership. He targeted groups benefiting from **United States Agency for International Development** (USAID) funding, threatening them with elimination and legal consequences. Additionally, Orbán echoed the "great replacement theory," suggesting a global plot to replace Europe's indigenous people with immigrants.
+
+Non-Augmented Summary:
+In a speech on Saturday, Hungarian Prime Minister Viktor Orbán accused the EU and a "liberal American empire" of trying to control Hungary. He pledged to eliminate media outlets and organizations funded from abroad, which he claims are part of a "shadow army" serving foreign interests. Orbán also stated that the EU is abusing its power and wants to colonize Ukraine through the ongoing war. He promised legal consequences for groups benefiting from USAID funding and echoed the "great replacement theory."
+
+================================================================================
+

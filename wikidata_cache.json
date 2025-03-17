@@ -1,0 +1,193 @@
+{
+    "Newton Stewart": {
+        "info": [
+            "Q1016985",
+            "Newton Stewart"
+        ],
+        "triples": [
+            [
+                "country",
+                "United Kingdom"
+            ]
+        ],
+        "type": "GPE"
+    },
+    "Hawick": {
+        "info": [
+            "Q407183",
+            "Hawick"
+        ],
+        "triples": [
+            [
+                "country",
+                "United Kingdom"
+            ]
+        ],
+        "type": "GPE"
+    },
+    "Dumfries": {
+        "info": [
+            "Q1247384",
+            "Dumfriesshire"
+        ],
+        "triples": [
+            [
+                "country",
+                "United Kingdom"
+            ],
+            [
+                "capital",
+                "Dumfries"
+            ]
+        ],
+        "type": "GPE"
+    },
+    "Peeblesshire": {
+        "info": [
+            "Q1247417",
+            "Peeblesshire"
+        ],
+        "triples": [
+            [
+                "country",
+                "United Kingdom"
+            ]
+        ],
+        "type": "GPE"
+    },
+    "Nicola Sturgeon": {
+        "info": [
+            "Q467112",
+            "Nicola Sturgeon"
+        ],
+        "triples": [
+            [
+                "place of birth",
+                "Irvine"
+            ],
+            [
+                "sex or gender",
+                "female"
+            ],
+            [
+                "spouse",
+                "Peter Murrell"
+            ],
+            [
+                "country of citizenship",
+                "United Kingdom"
+            ],
+            [
+                "educated at",
+                "University of Glasgow"
+            ],
+            [
+                "educated at",
+                "Greenwood Academy"
+            ],
+            [
+                "educated at",
+                "University of Glasgow School of Law"
+            ],
+            [
+                "occupation",
+                "lawyer"
+            ],
+            [
+                "occupation",
+                "politician"
+            ]
+        ],
+        "type": "PERSON"
+    },
+    "the last few days": {
+        "info": [
+            "Q48461712",
+            "The last few days"
+        ],
+        "triples": [],
+        "type": "DATE"
+    },
+    "Scottish Borders Council": {
+        "info": [
+            "Q99229585",
+            "Scottish Borders Council"
+        ],
+        "triples": [],
+        "type": "ORG"
+    },
+    "The Labour Party's": {
+        "info": [
+            "Q58447568",
+            "The labour party's record in office"
+        ],
+        "triples": [],
+        "type": "ORG"
+    },
+    "Scottish": {
+        "info": [
+            "Q181634",
+            "Scottish people"
+        ],
+        "triples": [
+            [
+                "instance of",
+                "ethnic group"
+            ]
+        ],
+        "type": "NORP"
+    },
+    "Alex Rowley": {
+        "info": [
+            "Q16191157",
+            "Alex Rowley"
+        ],
+        "triples": [
+            [
+                "place of birth",
+                "Dunfermline"
+            ],
+            [
+                "sex or gender",
+                "male"
+            ],
+            [
+                "country of citizenship",
+                "United Kingdom"
+            ],
+            [
+                "child",
+                "Danielle Rowley"
+            ],
+            [
+                "educated at",
+                "University of Edinburgh"
+            ],
+            [
+                "educated at",
+                "St. Columba's R.C. High School, Dunfermline"
+            ],
+            [
+                "occupation",
+                "politician"
+            ]
+        ],
+        "type": "PERSON"
+    },
+    "Monday": {
+        "info": [
+            "Q105",
+            "Monday"
+        ],
+        "triples": [],
+        "type": "DATE"
+    },
+    "Galloway": {
+        "info": [
+            "Q12789571",
+            "Galloway"
+        ],
+        "triples": [],
+        "type": "GPE"
+    }
+}
