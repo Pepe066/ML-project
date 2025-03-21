@@ -12,8 +12,8 @@ To set up and run this project, follow these steps:
    MISTRAL_API_KEY=your_mistral_api_key
    WIKI_ACC=your_wikipedia_email
    ```
-  **Dowload Packages**
-  '''
+**Dowload Packages**
+  ```
   pip install spacy
   python -m spacy download en_core_web_sm
   pip install requests
@@ -25,7 +25,7 @@ To set up and run this project, follow these steps:
   pip install bert-score
   pip install fuzzywuzzy
   pip install python-dotenv
-  '''
+  ```
 ## License
 This project is licensed under the MIT License.
 
