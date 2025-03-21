@@ -1,4 +1,4 @@
-# Machine Learning for Humanities - Project
+# Knowledge Augmented Abstractive Summarizer
 
 ## Overview
 This repository contains the implementation of a Machine Learning project for the *Machine Learning for Humanities* course. The project focuses on knowledge-augmented summarization, leveraging external data sources to enhance text generation quality and factual consistency.
